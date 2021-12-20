@@ -6,7 +6,7 @@
     🌠 About Me
 </div>
 <div align=center>
-    📚 NOW Public Data Quality Improvement Internship (21.07.21~21.12.17)
+    📚 NOW ZEPETO World Studio 개발 체험형 인턴 (21.12.20~22.03.18)
 </p>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpumfit&count_bg=%2324FFC8&title_bg=%23218CFF&icon=nintendoswitch.svg&icon_color=%23E3FFFA&title=&nbsp;Hits&nbsp;&edge_flat=false)](https://hits.seeyoufarm.com)
