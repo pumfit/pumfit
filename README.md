@@ -6,10 +6,9 @@
 <div align=center>
 </p>
   <div align=center>
-</p>
-
+  </p>
+    
   [![blog Badge](https://img.shields.io/badge/-blog-1877f2?logo=github&logoColor=23E3FFFA&link=https://pumfit.github.io/)](https://pumfit.github.io/)
-  [![Notion Badge](https://img.shields.io/badge/-notion-1877f2?logo=notion&logoColor=23E3FFFA&link=https://placid-impulse-811.notion.site/About-Me-a6791093600b4bd1b77d9e3c40a9765a)](https://placid-impulse-811.notion.site/About-Me-a6791093600b4bd1b77d9e3c40a9765a)
   <h2>
   🌠 My GitHub
 </div>
